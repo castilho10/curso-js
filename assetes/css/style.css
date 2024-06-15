@@ -261,9 +261,12 @@ fieldset legend {
     font-style: italic;
     padding-bottom: 2rem;
 }
-
 .forme {
     grid-column: span 2;
+    margin-top: -70rem;
+}
+.intro-imag,.intro-text{
+    margin-top: -60rem;
 }
 
 .forme fieldset {
