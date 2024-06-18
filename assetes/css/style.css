@@ -98,6 +98,7 @@ h6 {
 
 .spas-meu {
     height: 5.5rem;
+  
 }
 
 .menu h1 {
@@ -149,6 +150,7 @@ h6 {
     display: flex;
     flex-flow: column wrap;
     justify-content: center;
+
 }
 
 .intro-imag img {
@@ -263,11 +265,9 @@ fieldset legend {
 }
 .forme {
     grid-column: span 2;
-    margin-top: -70rem;
+    margin-top: -20rem;
 }
-.intro-imag,.intro-text{
-    margin-top: -60rem;
-}
+
 
 .forme fieldset {
     border: none;
